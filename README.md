@@ -6,7 +6,7 @@ Este projeto foi desenvolvido através de uma aula no youtube! (https://www.yout
 
 ## Screenshots
 
-![App Screenshot](/src/Assets/print.png)
+![App Screenshot](/src/assets/print.PNG)
 
 
 ## Tecnologias Utilizadas 💻
